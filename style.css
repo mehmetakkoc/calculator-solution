@@ -70,7 +70,7 @@ body {
 }
 
 .button.number-0 {
-  border-radius: 55px;
+  border-radius: 50px;
   grid-column: 1 / span 2;
   justify-content: flex-start;
   padding-left: 43px;
